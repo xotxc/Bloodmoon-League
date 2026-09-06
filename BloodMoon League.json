@@ -1,6 +1,6 @@
 {
 	"Name": "BloodMoon League",
-	"Version": 1788495150,
+	"Version": 1788710293,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -5310,7 +5310,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -6083,7 +6083,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"4"
 			],
 			"BalanceTiers": [
 				0,
