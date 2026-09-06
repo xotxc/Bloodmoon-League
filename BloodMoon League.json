@@ -1,6 +1,6 @@
 {
 	"Name": "BloodMoon League",
-	"Version": 1788710293,
+	"Version": 1788710450,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -7450,7 +7450,7 @@
 		{
 			"Name": "The First",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -7501,7 +7501,7 @@
 		{
 			"Name": "The Slasher",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -7552,7 +7552,7 @@
 		{
 			"Name": "The Judgment",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
